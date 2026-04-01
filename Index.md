@@ -9,7 +9,7 @@ The goal of this project is to design and develop an intelligent robotic arm cap
 ## Background
 Automation and robotics play a vital role in modern industries, where efficiency, precision, and reliability are essential. Robotic arms are commonly used for repetitive tasks such as pick-and-place operations, helping reduce human effort and errors. With advancements in computer vision, sensors, and control systems, robots can now perceive their environment and perform tasks autonomously rather than relying solely on pre-programmed motions. This project builds on these developments by integrating a multi-degree-of-freedom robotic arm with vision-based object detection and ROS2 control, enabling the system to identify, track, and manipulate objects accurately in a smart and automated manner.
 ## Project Resources
-- [Project Proposal](#)
+- [Project Proposal](Project_Proposal.pdf)
 - [Progress Report Week 3](WEEK_Report_3.pdf)
 - [Progress Report Week 4](WEEK_Report_4.pdf)
 - [Electrical Actuation Systems](Electrical_Actuation_Systems.pdf)
