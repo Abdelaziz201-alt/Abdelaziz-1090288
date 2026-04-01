@@ -10,7 +10,7 @@ Automation and robotics play a vital role in modern industries, where efficiency
 - [Project Proposal](#)
 - [Progress Report Week 3](WEEK_Report_3.pdf)
 - [Progress Report Week 4](WEEK_Report_4.pdf)
-- [Slides](#)
+- [Electrical Actuation Systems](Electrical_Actuation_Systems.pdf)
 - [Shared Folder](#)
 - [Video Demo](https://www.youtube.com/watch?v=ZXRSt3asv0w)
 ## Results
