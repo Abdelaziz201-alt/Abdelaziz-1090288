@@ -1,7 +1,9 @@
 # My Project Website
 ## Team Members
 - Abdelaziz 
-- Omar 
+- Omar
+- Hamza
+- Khaled
 ## Project Goal
 The goal of this project is to design and develop an intelligent robotic arm capable of performing automated pick-and-place operations. The system integrates mechanical design, sensing, and control to enable the robot to detect objects using vision and sensors, plan its motion, and execute precise movements. A multi-degree-of-freedom robotic arm is combined with a gripper mechanism and controlled using ROS2-based architecture to achieve accurate and efficient manipulation. Ultimately, the project aims to create a fully integrated, autonomous system that can identify, track, and handle objects in a smart and reliable manner.
 ## Background
